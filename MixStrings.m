@@ -4,7 +4,7 @@
 % Then scrambles letters in that string and 
 % displays the scrambled string
 % 
-% written by IF 5/6/2000
+% written by IF 06/09/2022
 clear
 str='hello there'
 mixstr='xxxxxxxxxxx'
